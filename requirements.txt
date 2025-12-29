@@ -1,0 +1,25 @@
+# -----------------------------
+# Core Python utilities
+# -----------------------------
+python-dotenv>=1.0.0
+
+# -----------------------------
+# Azure Document Intelligence (OCR)
+# -----------------------------
+azure-ai-formrecognizer>=3.3.2
+azure-core>=1.29.0
+
+# -----------------------------
+# MongoDB client
+# -----------------------------
+pymongo>=4.6.1
+
+LLM inference (llm_extractor.py)
+import subprocess
+import json
+import re
+
+# -----------------------------
+# Optional (for structured output / debugging)
+# -----------------------------
+tqdm>=4.66.1
