@@ -361,7 +361,13 @@ With GPT-5.2-style multimodal processing:
 
 This would make the system more robust, scalable, and production-ready for large-scale legal document automation.
 
-## 12. Conclusion
+## 12. Output Screenshots 
+<img width="1477" height="745" alt="image" src="https://github.com/user-attachments/assets/52f5f31d-29f8-4455-88dc-7b72aff78150" />
+<img width="925" height="255" alt="image" src="https://github.com/user-attachments/assets/0fbd0257-a4d7-4fa9-a93d-626fe39f22e2" />
+
+
+
+## 13. Conclusion
 
 This project demonstrates a real-world, production-oriented approach to document intelligence by combining:
 
